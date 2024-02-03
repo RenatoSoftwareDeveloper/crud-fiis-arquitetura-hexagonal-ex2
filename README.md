@@ -20,6 +20,9 @@
 * python -m venv venv
 * .\venv\Scripts\activate
 * deactivate
+### ativar com terminal git bash
+* source venv/Scripts/activate 
+
 
 ###  Dependências do projetos 
 - cd crud
