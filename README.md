@@ -135,3 +135,6 @@ Implementa a lógica de negócios e interação entre as portas de entrada e sa�
 
 Cada camada tem responsabilidades bem definidas e segue os princípios da Arquitetura Hexagonal, também conhecida como Arquitetura Ports and Adapters. 
 Isso facilita a manutenção, testabilidade e evolução do sistema, pois as dependências estão claramente definidas entre as camadas.
+
+### Collection Postman para teste
+https://github.com/RenatoSoftwareDeveloper/crud-fiis-arquitetura-hexagonal-ex2/tree/main/collection
